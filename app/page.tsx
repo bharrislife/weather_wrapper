@@ -165,6 +165,12 @@ export default function FreeWeatherWrapper() {
           </div>
 
         </div>
+
+        {/* 🌟 Footer Signature */}
+        <footer className="text-center text-xs text-slate-500 pt-6 border-t border-slate-800/60">
+          Designed by <span className="text-sky-400/80 font-medium">Betty Harris</span> with AI
+        </footer>
+
       </div>
     </div>
   );
